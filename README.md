@@ -10,11 +10,6 @@ This model was shown to Regions Bank to make it productionized. They were quite 
 
 The notebook(churn.ipynb) contains full approach and explanation along with the program code.
 
-<h4><b>Note:</b></h4> 
-<b>I highly recommend viewing this notebook in the below link as github is unable to show tableau and plotly embeds.</b>
-
-link: <a href = "https://nbviewer.jupyter.org/github/kbsriharsha/DataScience/blob/master/CostAnalysisByCustomerChurnPrediction/Churn.ipynb">https://nbviewer.jupyter.org/github/kbsriharsha/DataScience/blob/master/CostAnalysisByCustomerChurnPrediction/Churn.ipynb</a> 
-
 # Skill Sets Used:
 
 <p><b>Topics</b>: Descriptive Statistics, Inferrential Statistics, Machine Learning, Decision Theory, Predictive Analytics</p>
